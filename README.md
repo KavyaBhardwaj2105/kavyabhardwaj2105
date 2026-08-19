@@ -23,6 +23,4 @@ I am a computer science with integrated data science students who is targeting s
 
 ---
 [![](https://komarev.com/ghpvc/?username=kavyabhardwaj2105&icon=0&color=5)](https://visitcount.itsvg.in)
-[![trophy](https://github-profile-trophy.vercel.app/?kavyabhardwaj2105)](https://github.com/ryo-ma/github-profile-trophy)   
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
