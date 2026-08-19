@@ -1,34 +1,38 @@
-# 👋 Hey, I'm Kavya!
-
-### 💻 Computer Science Student | Java Developer | Full-Stack Enthusiast
+# 👋 Hi, I'm Kavya Bhardwaj
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Full+Stack+Development;Building+projects+and+solving+problems;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+DSA+Enthusiast;Full+Stack+Development+Learner;Building+Projects+%26+Solving+Problems;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/KavyaBhardwaj2105">
+    <img src="https://komarev.com/ghpvc/?username=KavyaBhardwaj2105&label=Profile%20Views&color=6C63FF&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 - 🎓 Computer Science student passionate about software development
-- 💻 Currently focusing on **Java, Data Structures & Algorithms**
-- 🌱 Exploring **Spring Boot, REST APIs and Full-Stack Development**
-- ⚡ Building practical projects to strengthen real-world development skills
-- 🧠 Regularly solving programming problems and improving problem-solving skills
-- 🎯 Interested in **Java Development & Full-Stack Development**
-- ☕ More coding, less overthinking!
+- 💻 Currently focusing on **Java and Data Structures & Algorithms**
+- 🌱 Exploring **Full Stack Development, REST APIs and Backend Development**
+- 🧠 Regularly solving **LeetCode** problems to improve problem-solving skills
+- 🚀 Building practical projects to gain real-world development experience
+- 🎯 Interested in **Java Development and Full Stack Development**
+- 💡 I enjoy turning ideas into working applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,sql" />
 </p>
 
-### ⚛️ Frontend
+### ⚛️ Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
@@ -37,10 +41,10 @@
 ### 🔧 Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postgres" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
@@ -50,129 +54,164 @@
 
 ## 🧠 Data Structures & Algorithms
 
-Currently working on:
+I'm actively practicing:
 
-- Arrays
-- Strings
+- Arrays & Strings
 - Hashing
-- Sliding Window
 - Two Pointers
+- Sliding Window
 - Binary Search
 - Stack & Queue
 - Linked List
 - Trees
 - Graphs
 - BFS & DFS
-- Dynamic Programming
-- Greedy Algorithms
 - Heap & Priority Queue
+- Greedy Algorithms
+- Dynamic Programming
 
-📌 Check out my DSA practice:
+### 📚 DSA Repository
 
-👉 [DSA-JAVA](https://github.com/KavyaBhardwaj2105/DSA-JAVA)
+👉 **[DSA-JAVA](https://github.com/KavyaBhardwaj2105/DSA-JAVA)**
 
----
-
-## 🚀 Featured Projects
-
-### 🏦 ATM Simulation System
-
-**Java • JDBC • MySQL • BCrypt • Apache PDFBox**
-
-A Java-based ATM banking application implementing authentication, account management, deposits, withdrawals, balance inquiry and fund transfers.
-
-🔗 [View Project](https://github.com/KavyaBhardwaj2105/ATM-Simulation-System-Java)
+A collection of Java implementations and LeetCode problem-solving practice.
 
 ---
 
-### 🐦 Twitter / X Clone
+# 🚀 Featured Projects
+
+## 🏦 ATM Simulation Website
+
+**Java • OOP • Application Logic • Web Deployment**
+
+A simulated ATM application demonstrating account access, transaction flows,
+balance management and practical application logic.
+
+### Features
+
+- 🔐 Account access
+- 💰 Balance management
+- 💸 Transaction handling
+- 🏦 ATM-style banking workflow
+- 📱 Responsive web interface
+- 🚀 Deployed using Vercel
+
+🔗 **GitHub:**  
+https://github.com/KavyaBhardwaj2105/northfield-atm-website
+
+🌐 **Live Demo:**  
+https://northfield-atm-website.vercel.app/
+
+---
+
+## 🐦 Twitter / X Clone
 
 **TypeScript • React • Frontend Development**
 
-A responsive social-media inspired project built to practice modern frontend development, reusable components and interactive UI patterns.
+A responsive social-media inspired project created to practice modern frontend
+development, reusable components and interactive UI design.
 
-🔗 [View Project](https://github.com/KavyaBhardwaj2105/twitter-x-clone)
+### Features
 
-🌐 [Live Demo](https://twitter-x-clone-sigma.vercel.app/)
+- 📱 Responsive interface
+- 🧩 Reusable components
+- 🎨 Modern UI
+- ⚡ Interactive frontend experience
 
----
+🔗 **GitHub:**  
+https://github.com/KavyaBhardwaj2105/twitter-x-clone
 
-### 🌐 Portfolio Website
-
-**TypeScript • Next.js • React • Tailwind CSS**
-
-A personal developer portfolio showcasing projects, skills, experience and development journey.
-
-🔗 [View Project](https://github.com/KavyaBhardwaj2105/portfolio_kavya)
-
-🌐 [Live Portfolio](https://portfolio-kavya.vercel.app/)
+🌐 **Live Demo:**  
+https://twitter-x-clone-sigma.vercel.app/
 
 ---
 
-### 💻 DSA-JAVA
+## 🌐 Developer Portfolio
 
-**Java • Data Structures • Algorithms**
+**Next.js • React • TypeScript • Tailwind CSS**
 
-A topic-wise collection of Java implementations and LeetCode problem-solving practice.
+A personal developer portfolio showcasing my projects, skills, experience and
+development journey.
 
-🔗 [View Repository](https://github.com/KavyaBhardwaj2105/DSA-JAVA)
+🔗 **GitHub:**  
+https://github.com/KavyaBhardwaj2105/portfolio_kavya
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavyaBhardwaj2105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaBhardwaj2105&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KavyaBhardwaj2105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Kavya's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaBhardwaj2105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KavyaBhardwaj2105&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/KavyaBhardwaj2105">
+    <img
+      src="https://streak-stats.demolab.com?user=KavyaBhardwaj2105&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KavyaBhardwaj2105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+  <a href="https://github.com/KavyaBhardwaj2105">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=KavyaBhardwaj2105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaBhardwaj2105&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaBhardwaj2105&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📌 GitHub Highlights
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kavya-bhardwaj-064bb5389/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<img src="https://img.shields.io/github/followers/KavyaBhardwaj2105?style=for-the-badge&logo=github&label=Followers" />
 
-<a href="https://github.com/KavyaBhardwaj2105">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
+<img src="https://img.shields.io/github/stars/KavyaBhardwaj2105?style=for-the-badge&logo=github&label=Stars" />
+
+<img src="https://img.shields.io/github/commit-activity/y/KavyaBhardwaj2105/DSA-JAVA?style=for-the-badge&logo=github&label=DSA%20Activity" />
 
 </p>
 
 ---
 
-## 💡 Current Focus
+# 🎯 Current Focus
 
 ```text
-Java Development        ███████████████░░░░░
-Data Structures         ████████████████░░░░
-Problem Solving         ███████████████░░░░░
-Spring Boot             ██████████░░░░░░░░░░
-Full Stack Development  ████████████░░░░░░░░
+Java Development       ████████████████░░░░
+DSA & Problem Solving  █████████████████░░░
+Frontend Development   ██████████████░░░░░░
+Backend Development    ███████████░░░░░░░░░
+Full Stack Development ████████████░░░░░░░░
