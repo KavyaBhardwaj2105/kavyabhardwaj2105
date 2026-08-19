@@ -13,7 +13,9 @@ I am a computer science with integrated data science students who is targeting s
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kavyabhardwaj2105&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kavyabhardwaj2105&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kavyabhardwaj2105&theme=onedark&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
