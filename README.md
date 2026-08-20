@@ -20,7 +20,7 @@
 - 🧠 Regularly solving **LeetCode** problems to improve problem-solving skills
 - 🚀 Building practical projects to gain real-world development experience
 - 🎯 Interested in **Java Development and Full Stack Development**
-- 💡 I enjoy turning ideas into working applications and focusing on gaining new opportunities to upskill myself
+- 💡 I enjoy turning ideas into working applications 
 
 ---
 
